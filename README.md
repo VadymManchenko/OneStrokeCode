@@ -27,7 +27,7 @@ The code consists of a single asynchronous function that:
 ## Code compiliing 
 
 The program was compiled and executed using the online JavaScript compiler available at [Programiz](https://www.programiz.com/javascript/online-compiler/).
-!(/image.png "Виконання програми")
+![Виконання програми](/image.png "Виконання програми")
 
 
 ### Code snippet
